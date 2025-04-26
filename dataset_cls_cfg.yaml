@@ -1,0 +1,6 @@
+names:
+  0: empty
+  1: not_empty
+test: /content/drive/MyDrive/CV/clf-dataset/test
+train: /content/drive/MyDrive/CV/clf-dataset/train
+val: /content/drive/MyDrive/CV/clf-dataset/val
